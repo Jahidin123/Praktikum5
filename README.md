@@ -1,5 +1,6 @@
 # Praktikum5
-		
+	#NAMA = JAHIDIN SHOLEH
+	#NIM = 311810704
 	#Latihan1
 		 
 	
