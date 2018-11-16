@@ -9,7 +9,7 @@
 	-membandingkan nilai a dengan max jika a < max max = a
 			if (a>max)
 			max=a;
--membandingkan inputan nilai a tidak sama dengan nilai 0 while(a!=0)
+	-membandingkan inputan nilai a tidak sama dengan nilai 0 while(a!=0)
 			do {
 			cout<<"masukan angka:";
     			cin>> a;
@@ -17,16 +17,16 @@
         		max=a;
 			    }
     			while (a!=0);
--mencetak nilai tertinggi cout<< max;
-2.Source Code C++
+	-mencetak nilai tertinggi cout<< max;
+	2.Source Code C++
 	int main()
-{
-   int a=0;
-   int max=0;
+	{
+ 	  int a=0;
+ 	  int max=0;
 
-  do{
-    cout<<"masukan angka:";
-    cin>> a;
+ 	 do{
+  	  cout<<"masukan angka:";
+  	  cin>> a;
       if (a>max)
         max=a;
 
@@ -35,11 +35,12 @@
 
 
     cout<<"nilai terbesar :"<< max;
-}
+	}
 
 
-#Latihan2#Menentukan Penjumlahan Bilangan Benar atau Salah
-1.Alur Algoritmanya
+	#Latihan2
+	#Menentukan Penjumlahan Bilangan Benar atau Salah
+	1.Alur Algoritmanya
 	-Mendeklarasikan int a,b, dan c
 	-Mendeklarasikan variabel a,b, dan c sebagai nilai input
 	-Memasukan nilai inputan a,b,c
